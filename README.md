@@ -31,7 +31,12 @@ SCT_DS_1/
 │── gender_distribution.png
 │── README.md
 ```
+## Output
+
+### Gender Distribution
+![Gender Distribution](gender_distribution.png)
 
 ### Author
 **Ajay Koleti**
 B.Tech Data Science Student
+
